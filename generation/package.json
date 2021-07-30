@@ -34,6 +34,6 @@
     }
   },
   "dependencies": {
-    "babel-generate-guard-clauses": "^0.1.0"
+    "babel-generate-guard-clauses": "^0.2.2"
   }
 }
