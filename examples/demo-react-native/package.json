@@ -6,7 +6,7 @@
     "start": "react-native start"
   },
   "dependencies": {
-    "react": "16.0.0-alpha.6",
+    "react": "16.14.0",
     "react-native": "0.44.0"
   },
   "devDependencies": {
